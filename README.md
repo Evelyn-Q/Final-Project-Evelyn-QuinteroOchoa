@@ -2,6 +2,7 @@
 Authors: Katherin Jimenez, Evelyn Quintero Ochoa, Lilie Bingham   
 References: https://nullbeans.com/the-java-bean-validation-cheet-sheet/ , https://stackoverflow.com/questions/26548505/org-hibernate-hibernateexception-access-to-dialectresolutioninfo-cannot-be-null
 
+Video: https://drive.google.com/file/d/1XYLzWxzJ3qp5pjM6LpyW-UQAZkW5XdXp/view?usp=sharing
 
 User Stories: 
 
