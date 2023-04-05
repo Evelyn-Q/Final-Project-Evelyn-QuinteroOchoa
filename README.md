@@ -1,6 +1,6 @@
 # Game Store Inventory Management Web Service   
 Authors: Katherin Jimenez, Evelyn Quintero Ochoa, Lilie Bingham   
-References: https://nullbeans.com/the-java-bean-validation-cheet-sheet/   
+References: https://nullbeans.com/the-java-bean-validation-cheet-sheet/ , https://stackoverflow.com/questions/26548505/org-hibernate-hibernateexception-access-to-dialectresolutioninfo-cannot-be-null
 
 
 User Stories: 
@@ -88,6 +88,7 @@ Also supports GraphQL queries to retrieve the following information:
 - Get a Console by ID
 
 - Get a Console by Manufacturer
+
 
 
 
